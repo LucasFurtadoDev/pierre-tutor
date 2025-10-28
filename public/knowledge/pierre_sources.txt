@@ -1,0 +1,27 @@
+
+=== SOURCE 1: RBEF – Revista Brasileira de Ensino de Física (2007) ===
+Citation:
+RBEF – Revista Brasileira de Ensino de Física. "A carta sobre o ímã de Petrus Peregrinus e o nascimento do método experimental." SciELO Brasil, v.29, n.4, p.563–572, 2007. Disponível em: https://www.scielo.br/j/rbef/a/5XFSC9bZVY3ySKhbBL9dHHf/?format=html&lang=pt. Acesso em: 16 out. 2025.
+
+Notes:
+- The SciELO page is accessible at the link above; on automated fetch it returned a security block from the site (requires a browser with JS). Please open the link in a normal browser if you want to copy full text into this file.
+- Recommendation: paste the important excerpts from the RBEF article here (or allow me to fetch if you prefer and can grant access). This source discusses the Epistola de Magnete and places Peregrinus in the context of the birth of experimental practice.
+
+=== SOURCE 2: THE IET — Pierre de Maricourt (2024) ===
+Citation:
+THE IET – The Institution of Engineering and Technology. "Pierre de Maricourt (Peter Peregrinus)." 2024. https://www.theiet.org/membership/library-and-archives/the-iet-archives/biographies/pierre-de-maricourt-peter-peregrinus. Acesso em: 16 out. 2025.
+
+Summary (paraphrased from IET page):
+- Petrus Peregrinus (Pierre de Maricourt) wrote the *Epistola de Magnete* around 1269 after observing lodestone behavior during military sieges. He assigned positions to the poles of a lodestone and recorded that unlike poles attract and like poles repel. He observed that every piece of lodestone behaves as a complete magnet and described methods for determining bearing — early compass principles. The Epistola influenced later works like William Gilbert's *De Magnete* (1600).
+
+=== SOURCE 3: WIKIPEDIA — Petrus Peregrinus de Maricourt (2024) ===
+Citation:
+WIKIPEDIA. "Petrus Peregrinus de Maricourt." 2024. https://en.wikipedia.org/wiki/Petrus_Peregrinus_de_Maricourt. Acesso em: 16 out. 2025.
+
+Summary (paraphrased from Wikipedia):
+- Wikipedia provides a concise biography: Peregrinus was a 13th-century figure, likely a soldier and engineer, who experimented with lodestones and authored the *Epistola de Magnete*. Key points include the description of magnetic poles, magnetic induction (that fragments are complete magnets), and practical instructions for constructing a compass and orienting by magnetic bearings.
+
+=== REFERENCES ===
+- RBEF (2007) — SciELO link (see above).
+- THE IET (2024) — IET archives biography.
+- WIKIPEDIA (2024) — Wikipedia entry.
