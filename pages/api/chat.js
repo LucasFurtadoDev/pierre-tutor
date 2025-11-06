@@ -1,7 +1,6 @@
 import fs from 'fs'
 import path from 'path'
 
-// força o modo dinâmico para que o Vercel leia as variáveis de ambiente corretamente
 export const dynamic = 'force-dynamic'
 
 export default async function handler(req, res) {
@@ -9,7 +8,6 @@ export default async function handler(req, res) {
 
   const { messages } = req.body
 
-  // verificação extra para garantir que a variável foi carregada
   if (!process.env.OPENAI_API_KEY) {
     console.error('❌ OPENAI_API_KEY não encontrada no ambiente!')
     return res.status(500).json({ error: 'Chave da OpenAI não configurada no servidor.' })
@@ -32,7 +30,8 @@ ${knowledge}
 
 USUÁRIO: ${userLatest}`
 
-    const resp = await fetch('/api/chat', {
+    // ✅ chamada correta à API da OpenAI
+    const resp = await fetch('https://api.openai.com/v1/chat/completions', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
